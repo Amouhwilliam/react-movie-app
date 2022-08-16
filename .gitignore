@@ -8,9 +8,11 @@
 # testing
 /coverage
 
+.env
+
 # production
 /build
-.env
+
 /.idea
 .idea
 .idea/
