@@ -65,7 +65,6 @@ export default function Movie() {
                     Vote:
                     <span className="font-bold"> {selectedMovie?.vote_count}</span>
                 </div>
-
             </div>
         </div>
     );

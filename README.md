@@ -1,7 +1,7 @@
 # React Movie Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-and [Tailwind Css](https://tailwindcss.com/) for styling. The global state of the application is hold with
+and [Tailwind Css](https://tailwindcss.com/) for styling. The global state of the application is held with
 react context.
 
 ## Run the Project
