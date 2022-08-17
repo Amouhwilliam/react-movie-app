@@ -6,6 +6,10 @@ react context.
 
 ## Run the Project
 
+Create the .env file with .env.dev file 
+
+### `cp .env.dev .env`
+
 The .env file contains the TMDB Api key for getting access to the The movies database API
 
 ### `yarn start`
